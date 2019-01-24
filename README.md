@@ -1,2 +1,2 @@
 # Mineral_Identification
-An open resource for conducting deep transfer learning 
+An open source for conducting deep transfer learning 
